@@ -1,0 +1,16 @@
+C:\Users\boss\Dropbox\PhiHoang\DotNet\QuanLySanPham\QuanLySanPham\bin\Debug\QuanLySanPham.exe.config
+C:\Users\boss\Dropbox\PhiHoang\DotNet\QuanLySanPham\QuanLySanPham\bin\Debug\QuanLySanPham.exe
+C:\Users\boss\Dropbox\PhiHoang\DotNet\QuanLySanPham\QuanLySanPham\bin\Debug\QuanLySanPham.pdb
+C:\Users\boss\Dropbox\PhiHoang\DotNet\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.csprojAssemblyReference.cache
+C:\Users\boss\Dropbox\PhiHoang\DotNet\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.frmMain.resources
+C:\Users\boss\Dropbox\PhiHoang\DotNet\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.Properties.Resources.resources
+C:\Users\boss\Dropbox\PhiHoang\DotNet\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.csproj.GenerateResource.cache
+C:\Users\boss\Dropbox\PhiHoang\DotNet\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.csproj.CoreCompileInputs.cache
+C:\Users\boss\Dropbox\PhiHoang\DotNet\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.exe
+C:\Users\boss\Dropbox\PhiHoang\DotNet\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.pdb
+C:\Users\boss\Dropbox\PhiHoang\DotNet\QuanLySanPham\QuanLySanPham\bin\Debug\MySql.Data.dll
+C:\Users\boss\Dropbox\PhiHoang\DotNet\QuanLySanPham\QuanLySanPham\bin\Debug\Google.Protobuf.dll
+C:\Users\boss\Dropbox\PhiHoang\DotNet\QuanLySanPham\QuanLySanPham\bin\Debug\Renci.SshNet.dll
+C:\Users\boss\Dropbox\PhiHoang\DotNet\QuanLySanPham\QuanLySanPham\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\boss\Dropbox\PhiHoang\DotNet\QuanLySanPham\QuanLySanPham\bin\Debug\MySql.Data.xml
+C:\Users\boss\Dropbox\PhiHoang\DotNet\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.csproj.CopyComplete

@@ -1,0 +1,16 @@
+C:\Users\boss\Desktop\S1Y4\DotNet\ThreeLayer\ThreeLayer\bin\Debug\ThreeLayer.exe.config
+C:\Users\boss\Desktop\S1Y4\DotNet\ThreeLayer\ThreeLayer\bin\Debug\ThreeLayer.exe
+C:\Users\boss\Desktop\S1Y4\DotNet\ThreeLayer\ThreeLayer\bin\Debug\ThreeLayer.pdb
+C:\Users\boss\Desktop\S1Y4\DotNet\ThreeLayer\ThreeLayer\bin\Debug\MySql.Data.dll
+C:\Users\boss\Desktop\S1Y4\DotNet\ThreeLayer\ThreeLayer\bin\Debug\Google.Protobuf.dll
+C:\Users\boss\Desktop\S1Y4\DotNet\ThreeLayer\ThreeLayer\bin\Debug\Renci.SshNet.dll
+C:\Users\boss\Desktop\S1Y4\DotNet\ThreeLayer\ThreeLayer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\boss\Desktop\S1Y4\DotNet\ThreeLayer\ThreeLayer\bin\Debug\MySql.Data.xml
+C:\Users\boss\Desktop\S1Y4\DotNet\ThreeLayer\ThreeLayer\obj\Debug\ThreeLayer.csprojAssemblyReference.cache
+C:\Users\boss\Desktop\S1Y4\DotNet\ThreeLayer\ThreeLayer\obj\Debug\ThreeLayer.Properties.Resources.resources
+C:\Users\boss\Desktop\S1Y4\DotNet\ThreeLayer\ThreeLayer\obj\Debug\ThreeLayer.csproj.GenerateResource.cache
+C:\Users\boss\Desktop\S1Y4\DotNet\ThreeLayer\ThreeLayer\obj\Debug\ThreeLayer.csproj.CoreCompileInputs.cache
+C:\Users\boss\Desktop\S1Y4\DotNet\ThreeLayer\ThreeLayer\obj\Debug\ThreeLayer.csproj.CopyComplete
+C:\Users\boss\Desktop\S1Y4\DotNet\ThreeLayer\ThreeLayer\obj\Debug\ThreeLayer.exe
+C:\Users\boss\Desktop\S1Y4\DotNet\ThreeLayer\ThreeLayer\obj\Debug\ThreeLayer.pdb
+C:\Users\boss\Desktop\S1Y4\DotNet\ThreeLayer\ThreeLayer\obj\Debug\ThreeLayer.frmMain.resources

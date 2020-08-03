@@ -1,0 +1,16 @@
+C:\Users\boss\Desktop\C#\ConnectMySQL\ConnectMySQL\bin\Debug\ConnectMySQL.exe.config
+C:\Users\boss\Desktop\C#\ConnectMySQL\ConnectMySQL\bin\Debug\ConnectMySQL.exe
+C:\Users\boss\Desktop\C#\ConnectMySQL\ConnectMySQL\bin\Debug\ConnectMySQL.pdb
+C:\Users\boss\Desktop\C#\ConnectMySQL\ConnectMySQL\bin\Debug\MySql.Data.dll
+C:\Users\boss\Desktop\C#\ConnectMySQL\ConnectMySQL\bin\Debug\Google.Protobuf.dll
+C:\Users\boss\Desktop\C#\ConnectMySQL\ConnectMySQL\bin\Debug\Renci.SshNet.dll
+C:\Users\boss\Desktop\C#\ConnectMySQL\ConnectMySQL\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\boss\Desktop\C#\ConnectMySQL\ConnectMySQL\bin\Debug\MySql.Data.xml
+C:\Users\boss\Desktop\C#\ConnectMySQL\ConnectMySQL\obj\Debug\ConnectMySQL.csprojAssemblyReference.cache
+C:\Users\boss\Desktop\C#\ConnectMySQL\ConnectMySQL\obj\Debug\ConnectMySQL.Form1.resources
+C:\Users\boss\Desktop\C#\ConnectMySQL\ConnectMySQL\obj\Debug\ConnectMySQL.Properties.Resources.resources
+C:\Users\boss\Desktop\C#\ConnectMySQL\ConnectMySQL\obj\Debug\ConnectMySQL.csproj.GenerateResource.cache
+C:\Users\boss\Desktop\C#\ConnectMySQL\ConnectMySQL\obj\Debug\ConnectMySQL.csproj.CoreCompileInputs.cache
+C:\Users\boss\Desktop\C#\ConnectMySQL\ConnectMySQL\obj\Debug\ConnectMySQL.csproj.CopyComplete
+C:\Users\boss\Desktop\C#\ConnectMySQL\ConnectMySQL\obj\Debug\ConnectMySQL.exe
+C:\Users\boss\Desktop\C#\ConnectMySQL\ConnectMySQL\obj\Debug\ConnectMySQL.pdb
