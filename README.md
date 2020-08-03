@@ -1,2 +1,2 @@
-# learning-csharp-ictu
-# developer by Phi Hoang
+# Some project C# i learned at ICTU
+# Create by Phi Hoang
